@@ -1,4 +1,4 @@
 1. How do you see the files changed within each commit from git log?
-write the command - $ git log - to view the changes and the order of changes would be in chronological order from top to bottom
+write the command , $ git log --stat , to view the changes of files and the order of changes would be in chronological order from top to bottom
 2. How do you see the contents of what changed within each file from the git log
 3. What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
